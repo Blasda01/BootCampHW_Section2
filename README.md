@@ -18,9 +18,9 @@ For this project, I am given Excel files with 2016, 2015 and 2014 year's New Yor
 
 Snapshot of Inital Data:
 
-![](Stock_Initial_Data.png)
+![](images/Stock_Initial_Data.png)
 
 
 Snapshot of Solved Data:
 
-![](Stock_VBA_solved.png)
+![](images/Stock_VBA_solved.png)
