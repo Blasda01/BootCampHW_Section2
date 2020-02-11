@@ -19,9 +19,9 @@ For this project, I am given Excel files with 2016, 2015 and 2014 year's New Yor
 Snapshot of Inital Data:
 
 
-<img src="../images/Stock_Initial_Data.png" alt="Initial data"/>
+<img src="..images/Stock_Initial_Data.png" alt="Initial data"/>
 
 Snapshot of Solved Data:
 
 
-<img src="../images/Stock_VBA_solved.png" alt="Solved data"/>
+<img src="..images/Stock_VBA_solved.png" alt="Solved data"/>
