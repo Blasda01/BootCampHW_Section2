@@ -16,11 +16,13 @@ For this project, I am given Excel files with 2016, 2015 and 2014 year's New Yor
 
 * Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
-Snapshot of Inital Data:
+
+**Snapshot of Inital Data:**
 
 ![Initial Data](images/Stock_Initial_Data.PNG)
 
-Snapshot of Solved Data:
+
+**Snapshot of Solved Data:**
 
 ![Solved Data](images/Stock_VBA_solved.PNG)
 
