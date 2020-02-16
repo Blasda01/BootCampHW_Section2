@@ -1,6 +1,6 @@
 # Stock_Market_VBA
 
-For this project, I am given Excel files with 2016, 2015 and 2014 year's New York Exchange stock market data.
+For this project, I was given Excel files with 2016, 2015 and 2014 year's New York Exchange stock market data.
 
 * Create a script that will loop through all the stocks for one year for each run and take the following information.
 
