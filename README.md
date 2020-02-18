@@ -1,4 +1,4 @@
-# Stock_Market_VBA
+# Stock_Market_VBA 
 
 For this project, I was given Excel files with 2016, 2015 and 2014 year's New York Exchange stock market data.
 
